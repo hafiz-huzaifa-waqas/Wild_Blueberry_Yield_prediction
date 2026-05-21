@@ -26,6 +26,8 @@ The objective of this project is to assist farmers and agricultural planners in 
 
 **File:** `WildBlueberryPollinationSimulationData.csv`
 
+**Kaggle:** https://www.kaggle.com/datasets/shashwatwork/wild-blueberry-yield-prediction-dataset
+
 The dataset includes various factors that influence blueberry production, such as:
 
 - Pollinator populations:
